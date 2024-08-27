@@ -1,0 +1,30 @@
+body{
+   background-color: rgb(248, 167, 224); 
+   background-image: cherry;
+   
+}
+
+p{
+    font-family: "Pacifico", cursive;
+    font-size: 18px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.lana2{
+    width: 400px;
+    height: 400px;
+    border-style: dotted;
+}
+
+.lana{
+    width: 400px;
+    height: 400px;
+    border-style: dotted;
+}
+.lana{
+    width: 400px;
+    height: 400px;
+}
